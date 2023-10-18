@@ -1,0 +1,2 @@
+nome = input("")
+album = input("")
